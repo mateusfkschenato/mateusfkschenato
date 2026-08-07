@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning **C programming**
 - 📫 How to reach me: *mateus.schenato@inf.ufrgs.br*
 - 😄 Check out my **website**: [Click Here!](https://www.inf.ufrgs.br/~mfkschenato/)
-- ⚡ Fun fact: I'm left-handed
 
 ```c
 #include <stdio.h>    // profile.c 
