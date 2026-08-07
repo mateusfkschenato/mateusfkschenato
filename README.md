@@ -1,23 +1,21 @@
 ## Hello, my name is Mateus
 
-I'm Mateus Schenato, welcome to my GitHub profile!
-
 - 🌱 I’m currently learning **C programming**
 - 📫 How to reach me: *mateus.schenato@inf.ufrgs.br*
 - 😄 Check out my **website**: [Click Here!](https://www.inf.ufrgs.br/~mfkschenato/)
 - ⚡ Fun fact: I'm left-handed
 
 ```c
-#include <stdio.h>
+#include <stdio.h>    // profile.c 
 
-typedef struct {
-    char nome[31];
-    int semestre;
-    char curso[31];
-} Estudante;
+typedef struct { 
+    char name[31];
+    int semester;
+    char major[31];
+} Student;
 
 int main (){ 
-    Estudante eu = {"Mateus Schenato", 2, "Ciência da Computação"};
+    Student me = {"Mateus Schenato", 2, "Computer Science"};
 
     return 0;
 }
