@@ -5,8 +5,6 @@
 - 😄 Check out my **website**: [Click Here!](https://www.inf.ufrgs.br/~mfkschenato/)
 
 ```c
-#include <stdio.h>    // profile.c 
-
 typedef struct { 
     char name[31];
     int semester;
