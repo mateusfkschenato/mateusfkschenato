@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning **C programming**
 - 📫 How to reach me: *mateus.schenato@inf.ufrgs.br*
-- 😄 Check out my **website**: [Click Here!](https://www.inf.ufrgs.br/~mfkschenato/)
+- 👨‍💻 Check out my **website**: [Click Here!](https://www.inf.ufrgs.br/~mfkschenato/)
 
 ```c
 typedef struct { 
