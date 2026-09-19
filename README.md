@@ -1,7 +1,7 @@
 ## Hello, my name is Mateus
 
 - 🌱 I’m currently learning **C programming**
-- 📫 How to reach me: *mateus.schenato@inf.ufrgs.br*
+- 📫 How to reach me: *schenatomateusfk@gmail.com*
 - 👨‍💻 Check out my **website**: [Click Here!](https://www.inf.ufrgs.br/~mfkschenato/)
 
 ```c
